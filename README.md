@@ -158,4 +158,4 @@ Place these in `./assets/`:
 ---
 
 ## Contact
-Questions, access requests, or pilots: **joey@dksmithandco.com**
+Questions, access requests, or pilots: **jmschulz@mindfuldiabetes.org**
