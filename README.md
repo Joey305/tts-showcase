@@ -45,16 +45,17 @@
 ## Screenshots
 
 **Login (approved users only)**  
-`assets/md-tts-login.png`
+![Login](assets/md-tts-login.png)
 
 **Character Library & voice controls**  
-`assets/md-tts-builder.png`
+![Builder](assets/md-tts-builder.png)
 
 **Dialog setup (multi-speaker)**  
-`assets/md-tts-dialog.png`
+![Dialog](assets/md-tts-dialog.png)
 
 **Preview & downloads**  
-`assets/md-tts-preview.png`
+![Preview](assets/md-tts-preview.png)
+
 
 ---
 
